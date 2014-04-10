@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "version": "2.5.2",
+  "private": true,
+  "dependencies": {
+    "hexo-renderer-jade": "0.0.2",
+    "hexo-generator-feed": "^0.1.0",
+    "hexo-livereload": "0.0.1",
+    "hexo-renderer-less": "0.0.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
